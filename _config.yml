@@ -1,7 +1,0 @@
-title: AI for Literature Review
-author: Library Education Support & Centre for Languages and Academic Skills
-logo: logo.png
-only_build_toc_files: true
-execute:
-  execute_notebooks: off
-copyright: "2025 Delft University of Technology, unless otherwise specified the works in this guide are licensed CC-BY 4.0"
